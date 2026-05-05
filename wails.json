@@ -1,0 +1,10 @@
+{
+  "name": "TurboWarpPackager",
+  "outputfilename": "TurboWarpPackager",
+  "frontend:install": "",
+  "frontend:build": "",
+  "author": {
+    "name": "sunny-nie",
+    "email": "2932384504@qq.com"
+  }
+}
